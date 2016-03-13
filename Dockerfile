@@ -1,4 +1,4 @@
-FROM rainydio/npm-build
+FROM node
 
 MAINTAINER "Dmitry Momot" <mail@dmomot.com>
 
