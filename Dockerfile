@@ -1,4 +1,4 @@
-FROM node
+FROM node:latest
 
 MAINTAINER "Dmitry Momot" <mail@dmomot.com>
 
